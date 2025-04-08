@@ -3,7 +3,6 @@ h1 {
   font-size: 45px;
   margin: 10px;
   margin-bottom: 20px;
- 
 }
 
 input {
@@ -16,10 +15,8 @@ input {
 
 .kg-button {
   min-width: 180px;
-
 }
 
 .kg-row {
   margin: 10px 50px;
-
 }
